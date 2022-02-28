@@ -1,0 +1,23 @@
+:root {
+  --orange: #ff8139;
+  --pink: #ff3998;
+  --green: #39ffa0;
+  --red: #ff3939;
+  --yellow: #ffff00;
+  --light-green: #edfff6;
+  --light-orange: #fff0e8;
+  --accent-color1: #ffffff;
+  --accent-color2: #555555;
+  --accent-color3: #cccccc;
+  --card-color: #000000;
+  --background: #111111;
+  --font-family: "Inter", sans-serif;
+}
+
+[data-theme="light"] {
+  --background: #ffffff;
+  --accent-color1: #000000;
+  --accent-color2: #eeeeee;
+  --accent-color3: #777777;
+  --card-color: #eeeeee;
+}
